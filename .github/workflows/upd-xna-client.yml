@@ -16,7 +16,7 @@ permissions:
   pull-requests: write
 
 env:
-  CLIENT_PATH: . # Do not add trailing slash
+  CLIENT_PATH: package # Do not add trailing slash
   UPDATE_BRANCH_NAME: update-client-binaries # The workflow adds the release tag after this value, i.e. "update-client-binaries-2.12.13"
   TARGET_BRANCH: master # Into this branch workflow should create pull request for merge
   COMMIT_MESSAGE: Update client binaries to the version
