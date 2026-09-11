@@ -16,7 +16,7 @@ permissions:
   pull-requests: write
 
 env:
-  CLIENT_PATH: . # Do not add trailing slash
+  CLIENT_PATH: package # Do not add trailing slash
   LAUNCHER_NAME: TiberianDawn.exe # Full launcher filename
   ICON_NAME: clienticon.ico # Full icon filename in the Resources folder
   UPDATE_BRANCH_NAME: update-client-launcher # The workflow adds the release tag after this value, i.e. "update-client-launcher-2.12.13"
