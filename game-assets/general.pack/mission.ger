@@ -1,0 +1,328 @@
+; Thanks to Reaperrr and Arsaneus for fixing these.
+; -Nyerguds
+
+;GDI BRIEFINGS
+
+[SCG01EA]
+1=Benutzen Sie Ihre Einheiten, um das Mobile Baufahrzeug (MBF) zu schtzen.
+2=Mit einem Doppelklick darauf beginnen Sie die Errichtung Ihrer
+3=Basis. Als erstes sollten Sie ein Kraftwerk errichten.
+4=Zum Schluá suchen und zerst”ren Sie alle Nod-Truppen im Zielgebiet.
+
+[SCG02EA]
+1=Verteidigen Sie Ihre Stellung, setzen Sie das MBF ein und bauen Sie eine
+2=ausreichend schlagkr„ftige Truppe auf, um die Nod-Basis hier zu zerst”ren.
+3=Sie mssen alle Einheiten und Geb„ude entweder zerst”ren oder erobern.
+
+[SCG03EA]
+1=Verst„rken Sie Ihre Truppe und greifen Sie die Nod-Basis an. Sobald alle
+2=Flarak-Stellungen ausgeschaltet sind, erhalten Sie Luftuntersttzung gegen
+3=Hindernisse wie etwa Geschtztrme. Schalten Sie alle Einheiten und
+4=Geb„ude aus.
+
+[SCG03EA]
+1=Verst„rken Sie Ihre Truppe und greifen Sie die Nod-Basis an. Sobald alle
+2=Flarak-Stellungen ausgeschaltet sind, erhalten Sie Luftuntersttzung gegen
+3=Hindernisse wie etwa Geschtztrme. Schalten Sie alle Einheiten und
+4=Geb„ude aus.
+
+[SCG04EA]
+1=Nod hat geheimes GDI-Eigentum erbeutet. Sie mssen es unbedingt finden und
+2=zurckbringen. Es befindet sich in einer Transportkiste. Benutzen Sie
+3=den neuen BMT, um Ihre Einheiten taktisch durch die
+4=Nod-Kr„fte hindurchzuman”vrieren.
+
+[SCG04WA]
+1=Nod hat geheimes GDI-Eigentum erbeutet. Sie mssen es unbedingt finden und
+2=zurckbringen. Es befindet sich in einer Transportkiste. Benutzen Sie
+3=den neuen BMT, um Ihre Einheiten taktisch durch die
+4=Nod-Kr„fte hindurchzuman”vrieren.
+
+[SCG04WB]
+1=Nod will ein ziviles Dorf besetzen und die Einwohner als Geiseln nehmen.
+2=Ihr Auftrag lautet, das Dorf als erster zu erreichen und die Nod-Angreifer
+3=abzuwehren, bis GDI-Verst„rkung eintrifft. Alle Nod-Truppen sind zu
+4=vernichten.
+
+[SCG05EA]
+1=Ein GDI-Sttzpunkt liegt unter Beschuss. Der erste Angriff wurde
+2=abgewehrt, einen zweiten wrden er nicht berstehen. Finden
+3=und reparieren Sie die Basis, dann organisieren Sie einen Angriff
+4=auf den Gegner.
+
+[SCG05EB]
+1=Ein GDI-Sttzpunkt liegt unter Beschuss. Der erste Angriff wurde
+2=abgewehrt, einen zweiten wrden er nicht berstehen. Finden
+3=und reparieren Sie die Basis, dann organisieren Sie einen Angriff
+4=auf den Gegner.
+
+[SCG05WA]
+1=Ein GDI-Sttzpunkt liegt unter Beschuss. Der erste Angriff wurde
+2=abgewehrt, einen zweiten wrden er nicht berstehen. Finden
+3=und reparieren Sie die Basis, dann organisieren Sie einen Angriff
+4=auf den Gegner.
+
+[SCG05WB]
+1=Ein GDI-Sttzpunkt liegt unter Beschuss. Der erste Angriff wurde
+2=abgewehrt, einen zweiten wrden er nicht berstehen. Finden
+3=und reparieren Sie die Basis, dann organisieren Sie einen Angriff
+4=auf den Gegner.
+
+[SCG06EA]
+1=Nutzen Sie den Commando, um die Nod-Basis zu infiltr@%>. %{*& zerst”ren
+2=Sie *(())$! um die Basis ^%$& au?zuschalten. Rein,
+3=zuschlagen und raus wie der h$!!fel!
+
+[SCG07EA]
+1=Letztes Auftragsziel nicht erreicht. Flugfeld war prim„res Ziel. Ihr
+2=neuer Auftrag: Sttzpunkt errichten, dann verbleibende Nod-Geb„ude und
+3=-Truppen vernichten. Verst„rkung ist unterwegs.
+
+[SCG08EA]
+1=Die UN hat die Gelder fr die Globale Defensiv-Initiative gestrichen. Die
+2=Truppen im Feld sind hilflos. Halten Sie sie mit Hilfe der Werkstatt
+3=lange genug betriebsbereit, um alle Nod-Geb„ude und -Einheiten zu zerst”ren.
+
+[SCG08EB]
+1=Dr. M”bius errichtet ein Krankenhaus in dieser Gegend, um die Opfer zu
+2=behandeln, die mit Tiberium in Kontakt gekommen sind. Schtzen Sie
+3=M”bius und die Zivilisten. Beseitigen Sie Nod aus dieser Gegend.
+
+[SCG09EA]
+1=Zerst”ren Sie die Nod-Geschtztrme, damit die Rak-Kreuzer die Basis
+2=gefahrlos angreifen k”nnen. Wenn die Kreuzer nahe genug rankommen, sollten
+3=sie das problemlos erledigen. Halten Sie die Augen offen nach dieser neuen
+4=Superwaffe, an der Nod angeblich arbeiten soll.
+
+[SCG10EA]
+1=Die UN-Gelder fliessen wieder. Ihnen steht jetzt der neue Jagdflieger
+2=Orca zur Verfgung. Erkunden Sie damit die n„here Umgebung und beseitigen
+3=Sie alle Spuren von Nods Anwesenheit.
+
+[SCG10EB]
+1=Die UN-Gelder fliessen wieder. Ihnen steht jetzt der neue Jagdflieger
+2=Orca zur Verfgung. Erkunden Sie damit die n„here Umgebung und beseitigen
+3=Sie alle Spuren von Nods Anwesenheit.
+
+[SCG11EA]
+1=Ein Geheimdienstmitarbeiter mit Codenamen Delphi hat Informationen ber Kane
+2=und sein neues Gen-Forschungslabor. Nach Ihrer Landung im Abschnitt Korinth
+3=bewegen Sie sich nordw„rts um Kontakt mit ihm aufzunehmen. Nod wird 
+4=versuchen Sie daran zu hindern. Sie mssen Delphi erreichen!
+
+[SCG12EA]
+1=Ein GDI-Sttzpunkt wird belagert, Dr. M”bius ist darin gefangen. Gehen
+2=Sie rein, schnappen Sie sich M”bius und bringen Sie ihn in den
+3=Transporthubschrauber, mit dem wir Sie aufsammeln werden. Aber vernichten
+4=Sie zuvor alle Luftabwehrstellungen, oder die Hubschrauber werden nicht
+5=lange leben.
+
+[SCG12EB]
+1=Ein GDI-Sttzpunkt wird belagert, Dr. M”bius ist darin gefangen. Gehen
+2=Sie rein, schnappen Sie sich M”bius und bringen Sie ihn in den
+3=Transporthubschrauber, mit dem wir Sie aufsammeln werden. Aber vernichten
+4=Sie zuvor alle Luftabwehrstellungen, oder die Hubschrauber werden nicht
+5=lange leben.
+
+[SCG13EA]
+1=Wir haben Kane in seinem Gen-Forschungslabor ausfindig gemacht, wo er
+2=Experimente berwacht. Zerst”ren Sie das Geb„ude, solange er noch drin ist.
+3=Bauen Sie ein Kommunikations-Zentrum, um den neuen Ionenwerfer einsetzen
+4=zu k”nnen. Er wird sich als grosse Hilfe erweisen.
+
+[SCG13EB]
+1=Wir haben Kane in seinem Gen-Forschungslabor ausfindig gemacht, wo er
+2=Experimente berwacht. Zerst”ren Sie das Geb„ude, solange er noch drin ist.
+3=Bauen Sie ein Kommunikations-Zentrum, um den neuen Ionenwerfer einsetzen
+4=zu k”nnen. Er wird sich als grosse Hilfe erweisen.
+
+[SCG14EA]
+1=Wir kennen jetzt den Fluchtweg der Nod-Streitkr„fte. Er fhrt durch
+2=dieses Tal. Schneiden Sie dem Konvoi den Weg ab, damit er nicht zur
+3=Hauptmacht aufschliessen kann. Greifen Sie den Tross an und zerst”ren
+4=Sie alle Fahrzeuge im Nod-Konvoi.
+
+[SCG15EA]
+1=Wir haben den Temple von Nod ausfindig gemacht, und wir wissen,
+2=dass Kane dort ist. Vernichten Sie ihn, den Tempel und alle anderen Nod-
+3=Kr„fte. Gerchten zufolge hat die Bruderschaft einen Nuklearsprengsatz
+4=fertiggestellt, es ist also Zeit zu handeln oder zu sterben. Lassen Sie uns
+5=handeln!
+
+[SCG15EB]
+1=Wir haben den Temple von Nod ausfindig gemacht, und wir wissen,
+2=dass Kane dort ist. Vernichten Sie ihn, den Tempel und alle anderen Nod-
+3=Kr„fte. Gerchten zufolge hat die Bruderschaft einen Nuklearsprengsatz
+4=fertiggestellt, es ist also Zeit zu handeln oder zu sterben. Lassen Sie uns
+5=handeln!
+
+[SCG15EC]
+1=Wir haben den Temple von Nod ausfindig gemacht, und wir wissen,
+2=dass Kane dort ist. Vernichten Sie ihn, den Tempel und alle anderen Nod-
+3=Kr„fte. Gerchten zufolge hat die Bruderschaft einen Nuklearsprengsatz
+4=fertiggestellt, es ist also Zeit zu handeln oder zu sterben. Lassen Sie uns
+5=handeln!
+
+
+
+
+;NOD BRIEFINGS
+
+[SCB01EA]
+1=Damit die Bruderschaft respektiert wird, mssen wir gewisse Elemente
+2=eliminieren. Nikumba, der Anfhrer des ”rtlichen Dorfes, ist eines
+3=dieser Elemente. Seine und unsere Ansichten stimmen nicht berein, und
+4=er muss eliminiert werden.
+
+[SCB02EA]
+1=Die GDI h„lt gypten seit langem im Wrgegriff. Errichten Sie eine
+2=Angriffsbasis dort. Dazu setzen Sie Ihr Mobiles Baufahrzeug mit einem
+3=Doppelklick ein. Die Gegend ist reich an Tiberium, es sollte also
+4=keine Materialknappheit geben.
+
+[SCB02EB]
+1=Die GDI h„lt gypten seit langem im Wrgegriff. Errichten Sie eine
+2=Angriffsbasis dort. Dazu setzen Sie Ihr Mobiles Baufahrzeug mit einem
+3=Doppelklick ein. Die Gegend ist reich an Tiberium, es sollte also
+4=keine Materialknappheit geben.
+
+[SCB03EA]
+1=Die GDI h„lt in einem Gefangenenlager einige Lokalpolitiker unter
+2=Verschluss. Kane m”chte diese bedauernswerten Opfer befreien. Vernichten
+3=Sie die GDI-Truppen, und erobern Sie das Gef„ngnis, ohne es zu zerst”ren.
+
+[SCB03EB]
+1=Die GDI h„lt in einem Gefangenenlager einige Lokalpolitiker unter
+2=Verschluss. Kane m”chte diese bedauernswerten Opfer befreien. Vernichten
+3=Sie die GDI-Truppen, und erobern Sie das Gef„ngnis, ohne es zu zerst”ren.
+
+[SCB04EA]
+1=Die GDI versucht ein Dorf von Sympathisanten zu evakuieren. Greifen Sie den 
+2=Konvoi an und vernichten Sie ihn. Es ist von gr”sster Wichtigkeit, dass alle 
+3=Dorfbewohner get”tet werden, als Warnung an andere Einwohner die sich 
+4=uns entgegenstellen k”nnten.
+
+[SCB04EB]
+1=Ein benachbartes, uns freundlich gesonnenes Dorf wird vermehrt von 
+2=GDI-Truppen bel„stigt und die Bruderschaft wnscht, dass Sie dem Dorf zur
+3=Seite stehen. Suchen Sie das feindliche Dorf und zerst”ren Sie es. Das
+4=Ganze wird als GDI-Angriff getarnt werden.
+
+[SCB05EA]
+1=Unsere Agenten in der GDI berichten uns von Epsilon-Jagdbombern, die
+2=bald herverlegt werden sollen. Unsere Waffenlieferanten haben das
+3=passende Gegenmittel. Verteidigen Sie sich mit den Boden-Luft-Raketen,
+4=dann zerst”ren Sie die gegnerische Basis.
+
+[SCB06EA]
+1=Die GDI hat einen Nuklearsprengsatz ins Land gebracht, um die Politiker
+2=hier zu beeindrucken. Dringen Sie in die Basis ein und stehlen Sie den
+3=Sprengsatz. Ein Helikopter wartet am Landeplatz auf Sie. Achten Sie
+4=auf ein Lande-Leuchtfeuer, sobald Sie den Sprengsatz haben.
+
+[SCB06EB]
+1=Die GDI hat einen Nuklearsprengsatz ins Land gebracht, um die Politiker
+2=hier zu beeindrucken. Dringen Sie in die Basis ein und stehlen Sie den
+3=Sprengsatz. Ein Helikopter wartet am Landeplatz auf Sie. Achten Sie
+4=auf ein Lande-Leuchtfeuer, sobald Sie den Sprengsatz haben.
+
+[SCB06EC]
+1=Die GDI hat einen Nuklearsprengsatz ins Land gebracht, um die Politiker
+2=hier zu beeindrucken. Dringen Sie in die Basis ein und stehlen Sie den
+3=Sprengsatz. Ein Helikopter wartet am Landeplatz auf Sie. Achten Sie
+4=auf ein Lande-Leuchtfeuer, sobald Sie den Sprengsatz haben.
+
+[SCB07EA]
+1=Die Bruderschaft hat riesige Tiberiumvorkommen geortet. Das nahe Dorf
+2=beansprucht die Felder fr sich. Eliminieren Sie die Dorfbewohner,
+3=um zu verhindern dass unsere eigenen Arbeiter sich nicht infizieren.
+4=GDI-Pr„senz soll nur minimal sein, so dass deren Eliminierung zweitrangig ist.
+
+[SCB07EB]
+1=Die Bruderschaft hat riesige Tiberiumvorkommen geortet. Das nahe Dorf
+2=beansprucht die Felder fr sich. Eliminieren Sie die Dorfbewohner,
+3=um zu verhindern dass unsere eigenen Arbeiter sich nicht infizieren.
+4=GDI-Pr„senz soll nur minimal sein, so dass deren Eliminierung zweitrangig ist.
+
+[SCB07EC]
+1=Die GDI ist verwundbar fr die t”dlichste aller Waffen, n„mlich
+2=Informationen. In der GDI-Basis in Ihrer Gegend steht ein neuer
+3=Kampfhelikopter, der Orca; stehlen Sie ihn, fliegen Sie damit zum Nachbardorf 
+4=und vernichten Sie es. Wir schieben den Angriff der GDI in die
+5=Schuhe.
+
+[SCB08EA]
+1=Da wir zur Zeit wenig Truppen haben, werden Sie alle verfgbaren
+2=Ressourcen nutzen mssen. Finden Sie die verlassene GDI-Basis in der
+3=Gegend und stellen Sie deren Einsatzbereitschaft her. Sobald das erledigt ist, 
+4=nutzen Sie ihre eigenen Waffen gegen die GDI. Stellen Sie sicher, dass keine
+5=GDI-Truppen berleben.
+
+[SCB08EB]
+1=Da wir zur Zeit wenig Truppen haben, werden Sie alle verfgbaren
+2=Ressourcen nutzen mssen. Finden Sie die verlassene GDI-Basis in der
+3=Gegend und stellen Sie deren Einsatzbereitschaft her. Sobald das erledigt ist, 
+4=nutzen Sie ihre eigenen Waffen gegen die GDI. Stellen Sie sicher, dass keine
+5=GDI-Truppen berleben.
+
+[SCB09EA]
+1=Die GDI versucht, „gypten zurckzuerobern. Stoppen Sie sie mit allen Mitteln.
+2=Die Bev”lkerung hat sich wieder mal auf die Seite der GDI geschlagen,
+3=also zeigen Sie keine Gnade mit den Dorfbewohnern.
+
+[SCB09EB]
+1=Die GDI versucht, „gypten zurckzuerobern. Stoppen Sie sie mit allen Mitteln.
+2=Die Bev”lkerung hat sich wieder mal auf die Seite der GDI geschlagen,
+3=also zeigen Sie keine Gnade mit den Dorfbewohnern.
+
+[SCB10EA]
+1=Die GDI entwickelt eine Orbitalwaffe. Unsere Agenten berichten von einem
+2=grossen See in der N„he des Forschungszentrums. Finden Sie die Basis, dann
+3=wird man Ihnen einen Scharfschtzen zuteilen um den Forscher ausschalten.
+
+[SCB10EB]
+1=Die GDI entwickelt eine neuen schweren Panzer. Unsere Agenten haben das
+2=Forschungszentrum entdeckt. Dringen Sie mit ihrer kleinen Einsatztruppe dort
+3=ein und zerst”ren Sie alle Panzer im Sttzpunkt und in der Fabrik.
+
+[SCB11EA]
+1=Die GDI hat eines unserer Technologiezentren besetzt. Erobern Sie die
+2=Basis und die Informationen zurck. Unsere Truppen dort haben 
+3=keine Zeit einen Weg ber den Fluss zu suchen, also mssen Sie ihnen
+4=separate Befehle geben.
+
+[SCB11EB]
+1=Die GDI hat eines unserer Technologiezentren besetzt. Erobern Sie die
+2=Basis und die Informationen zurck. Unsere Truppen dort haben 
+3=keine Zeit einen Weg ber den Fluss zu suchen, also mssen Sie ihnen
+4=separate Befehle geben.
+
+[SCB12EA]
+1=Irgendwo in Ihrer N„he steht eine Kommunikationszentrale der GDI.
+2=Darin befinden sich die Feuercodes fr ihre orbitale Ionenkanone. Die 
+3=Bruderschaft muss diese Codes haben. Erobern Sie die Zentrale und sichern
+4=Sie die Codes, die Zentrale darf nicht zerst”rt werden.
+
+[SCB12EB]
+1=Irgendwo in Ihrer N„he steht eine Kommunikationszentrale der GDI.
+2=Darin befinden sich die Feuercodes fr ihre orbitale Ionenkanone. Die 
+3=Bruderschaft muss diese Codes haben. Erobern Sie die Zentrale und sichern
+4=Sie die Codes, die Zentrale darf nicht zerst”rt werden.
+
+[SCB13EA]
+1=Bauen Sie Ihren Sttzpunkt auf, danach errichten und verteidigen Sie den
+2=Tempel von Nod. Alle GDI-Truppen mssen zerst”rt werden. Kane hat befohlen, 
+3=dass Sie den Tempel notfalls mit Ihrem Leben verteidigen; lassen Sie sich nicht 
+4=von Feindtruppen berrennen!
+
+[SCB13EB]
+1=Bauen Sie Ihren Sttzpunkt auf, danach errichten und verteidigen Sie den
+2=Tempel von Nod. Alle GDI-Truppen mssen zerst”rt werden. Kane hat befohlen, 
+3=dass Sie den Tempel notfalls mit Ihrem Leben verteidigen; lassen Sie sich nicht 
+4=von Feindtruppen berrennen!
+
+[SCB13EC]
+1=Bauen Sie Ihren Sttzpunkt auf, danach errichten und verteidigen Sie den
+2=Tempel von Nod. Alle GDI-Truppen mssen zerst”rt werden. Kane hat befohlen, 
+3=dass Sie den Tempel notfalls mit Ihrem Leben verteidigen; lassen Sie sich nicht 
+4=von Feindtruppen berrennen!
